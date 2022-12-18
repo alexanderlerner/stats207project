@@ -1,2 +1,3 @@
-# stats207project
-GARCH Modeling for Futures markets
+# Modeling Volatility in the S&P 500 and its Futures Market
+
+This paper explores various models for forecasting the S&P 500 index as well as its corre sponding futures market. We start by covering the concepts behind GARCH and E-GARCH modeling, then determine the optimal models for our data, and finally analyze the perfor- mance of these models for forecasting the volatility of the S&P 500 and its futures market. Modeling the volatility of this index is of great interest, and we explore the connection between the variance of the index with its futures market, a largely speculative market on its underlying performance. We find that the optimal models for forecasting volatility are the same for both indexes, but have lower predictive power on the inherently more volatile futures market.
